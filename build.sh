@@ -1,0 +1,1 @@
+CC=gcc.exe go run .
